@@ -1,0 +1,27 @@
+{
+	"name" : "llama-laravel/menus",
+	"description" : "A quick way to create menus in Laravel 5",
+	"keywords" : [
+		"laravel",
+		"llama",
+		"menu"
+	],
+	"homepage" : "https://github.com/xuanhoa88/laravel-menus",
+	"authors" : [{
+			"name" : "XuaNguyen",
+			"email" : "xuan.0211@gmail.com"
+		}
+	],
+	"license" : "MIT",
+	"require" : {
+		"php" : ">=5.6.4",
+		"illuminate/support" : ">=5.3",
+		"illuminate/view" : ">=5.3"
+	},
+	"autoload" : {
+		"psr-0" : {
+			"Llama\\Menus\\" : "src/"
+		}
+	},
+	"minimum-stability" : "dev"
+}
