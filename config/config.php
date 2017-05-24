@@ -10,6 +10,5 @@ return [
         'inheritance' => true,
         'restful' => false,
         'rest_base' => '' // string|array
-    ],
-    'view' => 'menus::menu'
+    ]
 ];
