@@ -79,7 +79,7 @@ Now, append Laravel Menu service provider to `providers` array in `config/app.ph
 	
 	...
         
-        'Llama\Menus\MenuServiceProvider',
+        Llama\Menus\MenuServiceProvider::class,
         
         ...
 
@@ -97,7 +97,7 @@ At the end of `config/app.php` add `'Menu'    => 'Llama\Menus\Facades\Menu'` to 
     'App'       => Illuminate\Support\Facades\App::class,
     'Artisan'   => Illuminate\Support\Facades\Artisan::class,
     ...
-    'Menu'       => 'Llama\Menus\Facades\Menu',
+    'Menu'       => Llama\Menus\Facades\Menu::class,
 
 ],
 ?>
@@ -1443,7 +1443,9 @@ return [
 		'restful'          => true,
 	],
 	'your_menu_name' => [
-		'auto_activate'    => false
+		'activate'    => [
+			'auto' => false
+		]
 	]
 ];
 ```
