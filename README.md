@@ -1,8 +1,8 @@
 # Laravel Menu
-[![Latest Stable Version](https://poser.pugx.org/xuanhoa88/laravel-menus/v/stable.svg)](https://packagist.org/packages/xuanhoa88/laravel-menus)
-[![Latest Unstable Version](https://poser.pugx.org/xuanhoa88/laravel-menus/v/unstable.svg)](https://packagist.org/packages/xuanhoa88/laravel-menus)
-[![Total Downloads](https://poser.pugx.org/xuanhoa88/laravel-menus/downloads.svg)](https://packagist.org/packages/xuanhoa88/laravel-menus)
-[![License](https://poser.pugx.org/xuanhoa88/laravel-menus/license.svg)](https://packagist.org/packages/xuanhoa88/laravel-menus)
+[![Latest Stable Version](https://poser.pugx.org/xuanhoa88/laravel-menus/v/stable.svg)](https://packagist.org/packages/llama-laravel/menus)
+[![Latest Unstable Version](https://poser.pugx.org/xuanhoa88/laravel-menus/v/unstable.svg)](https://packagist.org/packages/llama-laravel/menus)
+[![Total Downloads](https://poser.pugx.org/xuanhoa88/laravel-menus/downloads.svg)](https://packagist.org/packages/llama-laravel/menus)
+[![License](https://poser.pugx.org/xuanhoa88/laravel-menus/license.svg)](https://packagist.org/packages/llama-laravel/menus)
 
 
 A quick and easy way to create menus in [Laravel 5](http://laravel.com/)
